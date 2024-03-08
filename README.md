@@ -6,3 +6,6 @@ This model built with Sequential (LENET) nerual network .
 The optimizer has been set to (Adam) with (0.001) learning rate . 
 It takes 50 epochs and 64 batches to get 100% accuracy with (0.05) loss .
 the model saved in (h5 , keras) extintions . 
+
+
+there is a compressed folder containing a streamlit app running the model with testing sampeles (images)
